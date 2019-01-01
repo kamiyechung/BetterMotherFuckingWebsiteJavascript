@@ -1,5 +1,5 @@
 // Afficher la popup après 10s
-window.setTimeout(popup, 100);
+window.setTimeout(popup, 10000);
 
 function popup() {
   var choice;
